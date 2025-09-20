@@ -208,3 +208,43 @@ A curated collection of beautiful and functional **Starship** prompts, with scre
 <a href="#prompt-gallery" title="Go Back Up">
   <img src="https://img.shields.io/badge/%E2%86%91-Go_Back_Up-11111b?style=flat&labelColor=1E1E1E&color=1E1E1E" alt="Go Back Up" style="vertical-align: middle;">
 </a>
+
+### Meowrch
+
+**Author:** [meowrch](https://github.com/meowrch)
+
+[![Meowrch](assets/meowrch.png)](https://github.com/meowrch/meowrch/blob/main/home/.config/starship.toml)
+
+<a href="#prompt-gallery" title="Go Back Up">
+  <img src="https://img.shields.io/badge/%E2%86%91-Go_Back_Up-11111b?style=flat&labelColor=1E1E1E&color=1E1E1E" alt="Go Back Up" style="vertical-align: middle;">
+</a>
+
+### Lukewhrit
+
+**Author:** [Luke](https://github.com/lukewhrit)
+
+[![Lukewhrit](assets/lukewhrit.png)](https://github.com/lukewhrit/dotfiles/blob/main/.config/starship.toml)
+
+<a href="#prompt-gallery" title="Go Back Up">
+  <img src="https://img.shields.io/badge/%E2%86%91-Go_Back_Up-11111b?style=flat&labelColor=1E1E1E&color=1E1E1E" alt="Go Back Up" style="vertical-align: middle;">
+</a>
+
+### Cappyzawa
+
+**Author:** [Shu Kutsuzawa](https://github.com/cappyzawa)
+
+[![Cappyzawa](assets/cappyzawa.png)](https://github.com/cappyzawa/dotfiles/blob/6f45232d69a57aac243f48e305df0588109c1bc9/.config/starship/starship.toml)
+
+<a href="#prompt-gallery" title="Go Back Up">
+  <img src="https://img.shields.io/badge/%E2%86%91-Go_Back_Up-11111b?style=flat&labelColor=1E1E1E&color=1E1E1E" alt="Go Back Up" style="vertical-align: middle;">
+</a>
+
+### Jmreicha
+
+**Author:** [Josh Reichardt](https://github.com/jmreicha)
+
+[![Jmreicha](assets/jmreicha.png)](https://github.com/jmreicha/configs/blob/main/config/starship/starship.toml)
+
+<a href="#prompt-gallery" title="Go Back Up">
+  <img src="https://img.shields.io/badge/%E2%86%91-Go_Back_Up-11111b?style=flat&labelColor=1E1E1E&color=1E1E1E" alt="Go Back Up" style="vertical-align: middle;">
+</a>
