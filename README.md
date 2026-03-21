@@ -119,7 +119,7 @@ A curated collection of beautiful and functional **Starship** prompts, with scre
 
 **Author:** [end-4](https://github.com/end-4)
 
-[![End-4](assets/end_4.png)](https://github.com/end-4/dots-hyprland/blob/main/.config/starship.toml)
+[![End-4](assets/end_4.png)](https://github.com/end-4/dots-hyprland/tree/main/dots/.config)
 
 <a href="#prompt-gallery" title="Go Back Up">
   <img src="https://img.shields.io/badge/%E2%86%91-Go_Back_Up-11111b?style=flat&labelColor=1E1E1E&color=1E1E1E" alt="Go Back Up" style="vertical-align: middle;">
@@ -167,7 +167,7 @@ A curated collection of beautiful and functional **Starship** prompts, with scre
 
 **Author:** [Dimitris Pergelidis](https://github.com/p3rception)
 
-[![P3rception](assets/p3rception.png)](https://github.com/p3rception/dotfiles/blob/main/starship.toml)
+[![P3rception](assets/p3rception.png)](https://github.com/p3rception/dotfiles-p/blob/main/starship.toml)
 
 <a href="#prompt-gallery" title="Go Back Up">
   <img src="https://img.shields.io/badge/%E2%86%91-Go_Back_Up-11111b?style=flat&labelColor=1E1E1E&color=1E1E1E" alt="Go Back Up" style="vertical-align: middle;">
